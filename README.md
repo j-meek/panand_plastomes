@@ -1,4 +1,4 @@
-This repository contains data and code used in *Andropogoneae paper citation here*.
+This repository contains plastome sequence data and code used in *Andropogoneae paper citation here*.
 
 There are three Jupyter notebook files in the `/notebooks` folder that can be used to replicate sequence alignment and phylogenetic analyses. To run the code as currently written, make sure to unzip the .fasta files in the `/data` folder.
 
