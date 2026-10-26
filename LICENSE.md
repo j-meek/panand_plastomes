@@ -11,6 +11,6 @@ The content in this repository is dual-licensed:
 
 The datasets and reproducible analysis workflows supporting this research are archived on Zenodo:
 
-> **Meek et al.**. (2026). Data and analytical code for: Plastome phylogeny and updated classification of the grass tribe Andropogoneae. *Taxon*. *Zenodo*. https://doi.org/10.5281/zenodo.XXXXXXX
+> **Meek et al**. (2026). Data and analytical code for: Plastome phylogeny and updated classification of the grass tribe Andropogoneae. *Taxon*. *Zenodo*. https://doi.org/10.5281/zenodo.XXXXXXX
 
 *(Note: Once the associated manuscript is formally published, this section will be updated with the final journal citation.)*
